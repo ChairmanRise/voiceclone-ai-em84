@@ -1,4 +1,4 @@
-# 
+# New VoiceClone installer. Download and install with gpu-acceleration and api-access — fast, secure, and easy to use.
 
 
 
